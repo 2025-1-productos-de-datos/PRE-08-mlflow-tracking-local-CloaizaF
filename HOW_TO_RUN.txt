@@ -1,4 +1,4 @@
-## Example:
+## Example: 
 
 python3 -m homework --model knn 
 python3 -m homework --model knn --n_neighbors 10
